@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1aaf6a35-2d4f-4d04-8ffc-dbd85a15d203" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1bZQ2anMy9N0LxfIEaEeYRdRG3b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;java.sql.Driver" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunManager" selected="Python.Top trending">
+    <configuration name="Top trending" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Final" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Top trending.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spark_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Final" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spark_app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Final" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="twitter_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Final" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/twitter_app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Final" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Top trending" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.spark_app" />
+        <item itemvalue="Python.twitter_app" />
+        <item itemvalue="Python.wc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1aaf6a35-2d4f-4d04-8ffc-dbd85a15d203" name="Default Changelist" comment="" />
+      <created>1588836929493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588836929493</updated>
+      <workItem from="1588836930903" duration="373000" />
+      <workItem from="1588837675933" duration="19816000" />
+      <workItem from="1588940253795" duration="518000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="308" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588844194709">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="472" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.825@0.23.1440.825" timestamp="1588838113672" />
+    <state x="308" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.826@0.23.1440.826" timestamp="1588844194709" />
+    <state width="1473" height="245" key="GridCell.Tab.0.bottom" timestamp="1588907177144">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1473" height="245" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1588907177144" />
+    <state width="1473" height="210" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1588844224938" />
+    <state width="1473" height="245" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1588881557570" />
+    <state width="1473" height="245" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1588892213573" />
+    <state width="1473" height="245" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1588892248172" />
+    <state width="1473" height="245" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1588892319102" />
+    <state width="1473" height="245" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1588878187132" />
+    <state width="1473" height="245" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1588886542618" />
+    <state width="1473" height="245" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1588877074457" />
+    <state width="1473" height="245" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1588892514236" />
+    <state width="1473" height="245" key="GridCell.Tab.0.center" timestamp="1588907177143">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1473" height="245" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1588907177143" />
+    <state width="1473" height="210" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1588844224937" />
+    <state width="1473" height="245" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1588881557570" />
+    <state width="1473" height="245" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1588892213572" />
+    <state width="1473" height="245" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1588892248172" />
+    <state width="1473" height="245" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1588892319101" />
+    <state width="1473" height="245" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1588878187131" />
+    <state width="1473" height="245" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1588886542617" />
+    <state width="1473" height="245" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1588877074454" />
+    <state width="1473" height="245" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1588892514236" />
+    <state width="1473" height="245" key="GridCell.Tab.0.left" timestamp="1588907177143">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1473" height="245" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1588907177143" />
+    <state width="1473" height="210" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1588844224937" />
+    <state width="1473" height="245" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1588881557570" />
+    <state width="1473" height="245" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1588892213572" />
+    <state width="1473" height="245" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1588892248171" />
+    <state width="1473" height="245" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1588892319101" />
+    <state width="1473" height="245" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1588878187131" />
+    <state width="1473" height="245" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1588886542616" />
+    <state width="1473" height="245" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1588877074453" />
+    <state width="1473" height="245" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1588892514235" />
+    <state width="1473" height="245" key="GridCell.Tab.0.right" timestamp="1588907177143">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1473" height="245" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1588907177143" />
+    <state width="1473" height="210" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1588844224937" />
+    <state width="1473" height="245" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1588881557570" />
+    <state width="1473" height="245" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1588892213572" />
+    <state width="1473" height="245" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1588892248172" />
+    <state width="1473" height="245" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1588892319102" />
+    <state width="1473" height="245" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1588878187131" />
+    <state width="1473" height="245" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1588886542617" />
+    <state width="1473" height="245" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1588877074456" />
+    <state width="1473" height="245" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1588892514236" />
+    <state x="200" y="124" key="SettingsEditor" timestamp="1588838319151">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="200" y="124" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1588838319151" />
+    <state x="458" y="126" key="SettingsEditor/0.23.1440.826@0.23.1440.826" timestamp="1588837380298" />
+    <state x="352" y="519" key="com.intellij.ide.util.TipDialog" timestamp="1588837683352">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="352" y="519" key="com.intellij.ide.util.TipDialog/0.23.1440.825@0.23.1440.825" timestamp="1588837683352" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Final$ana_model.coverage" NAME="ana_model Coverage Results" MODIFIED="1588843891957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/f82570ebf34c723fb186eebb0e886759/Message/MessageTemp/5e7f3b80a470e4fd0eb0ec4e8a45c0da/File" />
+    <SUITE FILE_PATH="coverage/Final$twitter_app.coverage" NAME="twitter_app Coverage Results" MODIFIED="1588884987886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final$wordcloud.coverage" NAME="wordcloud Coverage Results" MODIFIED="1588844433976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final$Top_trending.coverage" NAME="Top trending Coverage Results" MODIFIED="1588892319089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final$wc.coverage" NAME="wc Coverage Results" MODIFIED="1588844645196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final$test.coverage" NAME="test Coverage Results" MODIFIED="1588887396485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final$spark_app.coverage" NAME="spark_app Coverage Results" MODIFIED="1588884999602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
